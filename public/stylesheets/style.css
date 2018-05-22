@@ -34,6 +34,7 @@ th {
 
 .tiny {
   font-size: 8px;
+  display: none;
 }
 
 .vp {
@@ -91,6 +92,7 @@ video {
   margin-top: 0px;
   position: relative;
   bottom: 10px;
+  display: none;
 }
 
 .overlay {

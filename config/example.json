@@ -8,9 +8,9 @@
       "manifest": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
       "type": "hls"
     },
-    { "title": "Example 3",
-      "manifest": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
-      "type": "hls"
+    { "title": "Example 5",
+      "manifest": "video/1.mp4",
+      "type": "dash"
     }
  ],
   "row1": [
