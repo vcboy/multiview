@@ -6,4 +6,8 @@ app.set('port', process.env.PORT || 3000);
 
 var server = app.listen(app.get('port'), function() {
   debug('Express server listening on port ' + server.address().port);
+  //var open = require("open");
+  var c = require('child_process');
+	c.exec('start http://localhost:3000/?config=example.json');
+  //open('http://localhost:3000/?config=example.json');
 });
