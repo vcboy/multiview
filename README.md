@@ -21,8 +21,9 @@ Install the necessary node modules
 		
 Start the Node express app
 
-		npm start
-		
+		npm start or run run.bat
+
+If want to mp4 to change m3u8,should download ffmpeg https://ffmpeg.org/download.html
 # Usage
 
 When the Node express app is up and running you can direct your Chrome browser to:
