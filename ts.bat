@@ -1,0 +1,1 @@
+.\ffmpeg\bin\ffmpeg -i video.mp4 -g 25 -hls_time 1 -hls_list_size 5 public/video/auto/index.m3u8
